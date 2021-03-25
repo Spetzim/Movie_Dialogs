@@ -1,0 +1,4 @@
+db_settings/
+venv/
+.idea/
+__pycache__/
