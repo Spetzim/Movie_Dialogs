@@ -1,5 +1,5 @@
 from data.db import Base, engine
-from data.Models.movies import Movie
+from data.Models.movies import *
 
 def main():
     Base.metadata.create_all(engine)
