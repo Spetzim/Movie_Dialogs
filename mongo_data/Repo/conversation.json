@@ -1,0 +1,17 @@
+{
+  "_id": "123faa223",
+  "movie_id": "m0",
+  "conversation_lines": [
+    {
+      "character_id": "u0",
+      "conversation_pos": 1,
+      "line_text": "Hello there!"
+    },
+    {
+      "character_id": "u1",
+      "conversation_pos": 2,
+      "line_text": "Hi!"
+    }
+  ]
+
+}
